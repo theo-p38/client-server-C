@@ -1,3 +1,3 @@
 # client-serveur-C
 
-Application client/serveur gérer un fond de bibliothèque
+Application client/serveur pour gérer un fond de bibliothèque
